@@ -44,13 +44,13 @@ targets:
       container:
         suite: precise
         arch: amd64
-        debootstrap_opt: --keyring=/usr/share/keyrings/ubuntu-archive-removed-keys.gpg
+        debootstrap_opt: --keyring=/usr/share/keyrings/ubuntu-archive-keyring.gpg
   precise-i386:
     var:
       container:
         suite: precise
         arch: i386
-        debootstrap_opt: --keyring=/usr/share/keyrings/ubuntu-archive-removed-keys.gpg
+        debootstrap_opt: --keyring=/usr/share/keyrings/ubuntu-archive-keyring.gpg
   utopic-amd64:
     var:
       container:
