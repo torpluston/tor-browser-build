@@ -1,3 +1,20 @@
+Tor Browser 7.5.1 -- March 13 2018
+ * All platforms
+   * Update Firefox to 52.7.0esr
+   * Update Tor to 0.3.2.10
+   * Update Torbutton to 1.9.8.6
+     * Bug 24159: Version check does not deal with platform specific checks
+     * Bug 25016: Remove 2017 donation banner
+     * Translations update
+   * Update Tor Launcher to 0.2.14.4
+     * Bug 25089: Special characters are not escaped in proxy password
+     * Translations update
+   * Update NoScript to 5.1.8.4
+   * Bug 25356: Update obfs4proxy to v0.0.7
+   * Bug 25000: Add [System+Principal] to the NoScript whitelist
+ * Windows
+   * Bug 25112: Disable sandboxing on 64-bit Windows <= Vista
+
 Tor Browser 7.5 -- January 23 2018
  * All Platforms
    * Update Firefox to 52.6.0esr
