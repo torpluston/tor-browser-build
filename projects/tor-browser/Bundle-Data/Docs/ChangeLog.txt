@@ -1,3 +1,9 @@
+Tor Browser 7.5.3 -- March 26 2018
+ * All platforms
+   * Update Firefox to 52.7.3esr
+   * Update HTTPS Everywhere to 2018.3.13
+     * Bug 25339: Adapt build system for Python 3.6 based build procedure
+
 Tor Browser 7.5.2 -- March 17 2018
  * All platforms
    * Update Firefox to 52.7.2esr
