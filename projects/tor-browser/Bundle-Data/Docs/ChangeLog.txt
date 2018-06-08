@@ -1,3 +1,8 @@
+Tor Browser 8.0a8 -- June 10 2018
+ * All platforms
+   * Update Firefox to 52.8.1esr
+   * Bug 26098: Remove amazon-meek
+
 Tor Browser 8.0a7 -- May 9 2018
  * All platforms
    * Update Firefox to 52.8.0esr
