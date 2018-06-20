@@ -1,10 +1,12 @@
 # vim: filetype=yaml sw=2
 version: 2018.6.13
-git_url: https://git.torproject.org/https-everywhere.git
-git_hash: '[% c("version") %]'
+git_url: https://github.com/boklm/https-everywhere
+# Temporary fix for #26428
+git_hash: 53091373b8e4a78504dd2ddc55f953a267a7de87
 git_submodule: 1
 gpg_keyring: https-everywhere.gpg
-tag_gpg_id: 1
+# Temporarily disable gpg check for #26428
+#tag_gpg_id: 1
 filename: "[% project %]-[% c('version') %]-[% c('var/build_id') %].xpi"
 var:
   # HTTPS Everywhere is expected to be the same on all platforms. To avoid
