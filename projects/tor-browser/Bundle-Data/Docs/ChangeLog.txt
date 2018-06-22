@@ -4,8 +4,8 @@ Tor Browser 7.5.6 -- June 26 2018
    * Update Tor to 0.3.3.7
    * Update Tor Launcher to 0.2.14.5
      * Bug 20890: Increase control port connection timeout
-   * Update HTTPS Everywhere to 2018.6.13
-     * Bug 26428: Work around HTTPS Everywhere caused build bustage
+   * Update HTTPS Everywhere to 2018.6.21
+     * Bug 26451: Prevent HTTPS Everywhere from freezing the browser
    * Update NoScript to 5.1.8.6
    * Bug 21537: Mark .onion cookies as secure
    * Bug 25938: Backport fix for cross-origin header leak (bug 1334776)
