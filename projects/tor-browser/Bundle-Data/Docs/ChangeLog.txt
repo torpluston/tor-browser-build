@@ -1,4 +1,4 @@
-Tor Browser 8.0.1 -- September 20 2018
+Tor Browser 8.0.1 -- September 24 2018
  * All platforms
    * Update Tor to 0.3.4.8
    * Update Torbutton to 2.0.7
