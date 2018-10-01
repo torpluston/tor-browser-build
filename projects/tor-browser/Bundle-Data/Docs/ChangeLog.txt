@@ -1,3 +1,10 @@
+Tor Browser 8.0.2 -- October 2 2018
+ * All platforms
+   * Update Firefox to 60.2.1esr
+   * Backport fix for Mozilla bug 1493900 and 1493903
+ * OS X
+   * Backport fix for Mozilla bug 1489785 for macOS 10.14 compatibility
+
 Tor Browser 8.0.1 -- September 24 2018
  * All platforms
    * Update Tor to 0.3.4.8
