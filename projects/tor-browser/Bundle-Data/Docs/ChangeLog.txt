@@ -18,9 +18,9 @@ Tor Browser 8.0.4 -- December 11 2018
    * Bug 28657: Remove broken FTE bridge from Tor Browser
  * OS X
    * Bug 26263: App icon positioned incorrectly in macOS DMG installer window
-   * Bug 26475: Fix Stylo related reproducibilitiy issue
+   * Bug 26475: Fix Stylo related reproducibility issue
  * Linux
-   * Bug 26475: Fix Stylo related reproducibilitiy issue
+   * Bug 26475: Fix Stylo related reproducibility issue
    * Bug 28657: Remove broken FTE bridge from Tor Browser
  * Build System
    * All Platforms
