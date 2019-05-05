@@ -1,3 +1,10 @@
+Tor Browser 8.0.9 -- May 6 2019
+* All platforms
+  * Backport fixes for bug 1549010 and bug 1549061
+    * Bug 30388: NoScript and all user-installed add-ons got deactivated
+  * Update NoScript to 10.6.1
+     * Bug 29872: XSS popup with DuckDuckGo search on about:tor
+
 Tor Browser 8.0.8 -- March 22 2019
  * All platforms
    * Update Firefox to 60.6.1esr
