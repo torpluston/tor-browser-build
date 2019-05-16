@@ -1,0 +1,10 @@
+# vim: filetype=yaml sw=2
+version: '[% c("git_hash") %]'
+git_url: https://git.torproject.org/user/boklm/tor-browser-build.git
+tag_gpg_id: 1
+gpg_keyring: boklm.gpg
+targets:
+  t1:
+    git_hash: test_bug_30480-t1
+  t2:
+    git_hash: test_bug_30480-t2
