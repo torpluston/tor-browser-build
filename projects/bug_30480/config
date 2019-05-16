@@ -8,3 +8,7 @@ targets:
     git_hash: test_bug_30480-t1
   t2:
     git_hash: test_bug_30480-t2
+  t3:
+    git_hash: test_bug_30480-t3
+  t4:
+    git_hash: test_bug_30480-t4
