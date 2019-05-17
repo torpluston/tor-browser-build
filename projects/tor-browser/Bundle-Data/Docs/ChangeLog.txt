@@ -7,7 +7,7 @@ Tor Browser 8.5 -- May 21 2019
      * Bug 22538+22513: Fix new circuit button for error pages
      * Bug 25145: Update circuit display when back button is pressed
      * Bug 27749: Opening about:config shows circuit from previous website
-     * Bug 30115: Map browser+domain to credentials to fix circuit display
+     * Bug 30115+27449+25145: Map browser+domain to credentials to fix circuit display
      * Bug 25702: Update Tor Browser icon to follow design guidelines
      * Bug 21805: Add click-to-play button for WebGL
      * Bug 28836: Links on about:tor are not clickable
