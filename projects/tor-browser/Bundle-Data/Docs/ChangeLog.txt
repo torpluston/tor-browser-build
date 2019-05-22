@@ -74,9 +74,8 @@ Tor Browser 8.5 -- May 21 2019
    * Bug 29768: Introduce new features to users
    * Bug 27484: Improve navigation within onboarding
    * Bug 25658+29554: Replace security slider with security level UI
-   * Bug 25658+29554: Replace security slider with security level UI
    * Bug 25405: Cannot use Moat if a meek bridge is configured
-   * Bug 28885: notify users that update is downloading
+   * Bug 28885: Notify users that update is downloading
    * Bug 29180: MAR download stalls when about dialog is opened
    * Bug 27485: Users are not taught how to open security-slider dialog
    * Bug 27486: Avoid about:blank tabs when opening onboarding pages
