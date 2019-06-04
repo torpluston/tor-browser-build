@@ -10,6 +10,7 @@ Tor Browser 8.5.1 -- June 4 2019
    * Bug 30541: Disable WebGL readPixel() for web content
  * Windows + OS X + Linux
    * Bug 30560: Better match actual toolbar in onboarding toolbar graphic
+   * Bug 30571: Correct more information URL for security settings
  * Android
    * Bug 30635: Sync mobile default bridges list with desktop one
  * Build System
