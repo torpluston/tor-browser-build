@@ -1,7 +1,7 @@
 Tor Browser 8.5.4 -- July 9 2019
  * All platforms
    * Update Firefox to 60.8.0esr
-   * Update Torbutton to 2.1.11
+   * Update Torbutton to 2.1.12
      * Bug 30577: Add Fundraising Banner
      * Bug 31041: Stop syncing network.cookie.lifetimePolicy
      * Translations update
