@@ -11,7 +11,7 @@ Tor Browser 9.0 -- October 22 2019
    * Bug 31602: Remove Pocket indicators in UI and disable it
    * Bug 31914: Fix eslint linter error
    * Bug 30429: Rebase patches for Firefox 68 ESR
-   * Bug 31444: Review network code changes for Firefox 68 ESR
+   * Bug 31144: Review network code changes for Firefox 68 ESR
    * Bug 10760: Integrate Torbutton into Tor Browser directly
    * Bug 25856: Remove XUL overlays from Torbutton
    * Bug 31322: Fix about:tor assertion failure debug builds
@@ -32,6 +32,7 @@ Tor Browser 9.0 -- October 22 2019
    * Bug 31015: Disabling SVG hides UI icons in extensions
    * Bug 30681: Set security.enterprise_roots.enabled to false
    * Bug 30538: Unable to comment on The Independent Newspaper
+   * Bug 31209: View PDF in Tor Browser is fuzzy
    * Translations update
  * Windows + OS X + Linux
    * Update Tor to 0.4.1.6
@@ -55,7 +56,7 @@ Tor Browser 9.0 -- October 22 2019
    * Bug 32111: Fixed issue parsing user-provided bridge strings
    * Bug 31749: Fix security level panel spawning events
    * Bug 31920: Fix Security Level panel when its toolbar button moves to overflow
-   * Bug 31748: Fix 'Learn More' links in Security Level preferences and panel
+   * Bug 31748+31961: Fix 'Learn More' links in Security Level preferences and panel
    * Bug 28044: Integrate Tor Launcher into tor-browser
    * Bug 31059: Enable Letterboxing
    * Bug 30468: Add mk locale
@@ -120,6 +121,7 @@ Tor Browser 9.0 -- October 22 2019
    * Bug 31822: Security slider is not really visible on Android anymore
    * Bug 24920: Only create Private tabs in permanent Private Browsing Mode
    * Bug 31730: Revert aarch64-workaround against JIT-related crashes
+   * Bug 32097: Fix conflicts in mobile onboarding while rebasing to 68.2.0esr
  * Build System
    * All Platforms
      * Bug 30585: Provide standalone clang 8 project across all platforms
