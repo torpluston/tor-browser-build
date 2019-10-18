@@ -38,8 +38,9 @@ Tor Browser 9.0 -- October 22 2019
    * Update Tor to 0.4.1.6
    * Update OpenSSL to 1.1.1d
      * Bug 31844: OpenSSL 1.1.1d fails to compile for some platforms/architectures
-   * Update Tor Launcher to 0.2.20
+   * Update Tor Launcher to 0.2.20.1
      * Bug 28044: Integrate Tor Launcher into tor-browser
+     * Bug 32154: Custom bridge field only allows one line of input
      * Bug 31286: New strings for about:preferences#tor
      * Bug 31303: Do not launch tor in browser toolbox
      * Bug 32112: Fix bad & escaping in translations
