@@ -1,3 +1,21 @@
+Tor Browser 9.0.2 -- December 3 2019
+ * All Platforms
+   * Update Firefox to 68.3.0esr
+   * Bump NoScript to 11.0.9
+     * Bug 32362: NoScript TRUSTED setting doesn't work
+     * Bug 32429: Issues with about:blank and NoScript on .onion sites
+   * Bump HTTPS Everywhere to 2019.11.7
+   * Bug 27268: Preferences clean-up in Torbutton code
+   * Translations update
+ * Windows + OS X + Linux
+   * Bug 32125: Fix circuit display for bridge without a fingerprint
+   * Bug 32250: Backport enhanced letterboxing support (bug 1546832 and 1556017)
+ * Windows
+   * Bug 31989: Backport backout of old mingw-gcc patch
+ * Build System
+   * All Platforms
+     * Bug 32413: Bump Go version to 1.12.13
+
 Tor Browser 9.0.1 -- November 4 2019
  * All Platforms
    * Update NoScript to 11.0.4
