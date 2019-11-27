@@ -13,6 +13,8 @@ Tor Browser 9.0.2 -- December 3 2019
  * Windows
    * Bug 31989: Backport backout of old mingw-gcc patch
    * Bug 32616: Disable GetSecureOutputDirectoryPath() functionality
+ * Android
+   * Bug 32365: Localization is broken in Tor Browser 9 on Android
  * Build System
    * All Platforms
      * Bug 32413: Bump Go version to 1.12.13
