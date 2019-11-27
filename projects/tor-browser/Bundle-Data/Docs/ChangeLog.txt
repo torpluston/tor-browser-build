@@ -12,6 +12,7 @@ Tor Browser 9.0.2 -- December 3 2019
    * Bug 32250: Backport enhanced letterboxing support (bug 1546832 and 1556017)
  * Windows
    * Bug 31989: Backport backout of old mingw-gcc patch
+   * Bug 32616: Disable GetSecureOutputDirectoryPath() functionality
  * Build System
    * All Platforms
      * Bug 32413: Bump Go version to 1.12.13
