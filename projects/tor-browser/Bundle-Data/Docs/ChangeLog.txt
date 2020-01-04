@@ -1,8 +1,7 @@
-Tor Browser 9.0.3 -- January 7 2019
+Tor Browser 9.0.3 -- January 7 2020
  * All Platforms
    * Update Firefox to 68.4.0esr
    * Bump NoScript to 11.0.11
-   * Bump Tor to 0.4.2.5
    * Translations update
    * Update OpenPGP keyring
    * Bug 32606: Set up default bridge at Georgetown University
@@ -10,6 +9,7 @@ Tor Browser 9.0.3 -- January 7 2019
    * Bug 32547: Add new default bridge at UMN
    * Bug 31855: Remove End of Year Fundraising Campaign from about:tor
  * Windows + OS X + Linux
+   * Bump Tor to 0.4.2.5
    * Update Tor Launcher to 0.2.20.5
      * Bug 32636: Clean up locales shipped with Tor Launcher
  * Android
