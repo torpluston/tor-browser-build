@@ -11,6 +11,7 @@ Tor Browser 9.0.3 -- January 7 2019
    * Bug 31855: Remove End of Year Fundraising Campaign from about:tor
  * Windows + OS X + Linux
    * Update Tor Launcher to 0.2.20.5
+     * Bug 32636: Clean up locales shipped with Tor Launcher
  * Android
    * Bug 32405: Crash immediately after bootstrap on Android
  * Build System
