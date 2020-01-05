@@ -15,7 +15,7 @@ Tor Browser 9.0.3 -- January 7 2020
  * Android
    * Bug 32405: Crash immediately after bootstrap on Android
  * Build System
-   * Windows + OS X + Linux
+   * Linux
      * Bug 32676: Create a tarball with all Linux x86_64 language packs
 
 Tor Browser 9.0.2 -- December 3 2019
