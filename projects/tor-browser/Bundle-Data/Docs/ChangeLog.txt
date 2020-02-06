@@ -9,6 +9,9 @@ Tor Browser 9.0.5 -- February 11 2020
    * Bump Tor to 0.4.2.6
  * Windows
    * Bug 32132: Re-enable jemalloc for Windows users
+ * Build System
+   * All Platforms
+     * Bug 32739: Bump clang to 8.0.1
 
 Tor Browser 9.0.4 -- January 9 2020
  * All Platforms
