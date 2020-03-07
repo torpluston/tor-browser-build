@@ -1,3 +1,11 @@
+Tor Browser 9.0.6 -- March 11 2020
+ * All Platforms
+   * Update Firefox to 68.6.0esr
+   * Bump NoScript to 11.0.15
+ * Build System
+   * All Platforms
+     * Bug 33535: Patch openssl to use SOURCE_DATE_EPOCH for copyright year
+
 Tor Browser 9.0.5 -- February 11 2020
  * All Platforms
    * Update Firefox to 68.5.0esr
