@@ -4,7 +4,7 @@ Tor Browser 9.0.6 -- March 11 2020
    * Bump NoScript to 11.0.15
      * Bug 33430: Disable downloadable fonts on Safest security level
  * Build System
-   * All Platforms
+   * Windows
      * Bug 33535: Patch openssl to use SOURCE_DATE_EPOCH for copyright year
 
 Tor Browser 9.0.5 -- February 11 2020
