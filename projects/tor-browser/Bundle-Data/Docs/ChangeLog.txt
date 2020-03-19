@@ -1,3 +1,10 @@
+Tor Browser 9.0.7 -- March 20 2020
+ * All Platforms
+   * Bump NoScript to 11.0.19
+   * Bug 33613: Disable Javascript on Safest security level
+ * Windows + OS X + Linux
+   * Bump Tor to 0.4.2.7
+
 Tor Browser 9.0.6 -- March 11 2020
  * All Platforms
    * Update Firefox to 68.6.0esr
