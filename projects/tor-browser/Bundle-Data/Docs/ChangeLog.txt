@@ -4,6 +4,7 @@ Tor Browser 9.0.8 -- April 7 2020
    * Bump NoScript to 11.0.23
  * Windows + OS X + Linux
    * Bug 33771: Update some existing licenses and add Libevent license
+   * Bug 33723: Bump openssl version to 1.1.1f
 
 Tor Browser 9.0.7 -- March 20 2020
  * All Platforms
