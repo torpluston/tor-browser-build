@@ -1,3 +1,8 @@
+Tor Browser 9.0.8 -- April 5 2020
+ * All Platforms
+   * Bug 1620818 - Release nsDocShell::mContentViewer properly
+   * Bug 1626728 - Normalize shutdown
+
 Tor Browser 9.0.7 -- March 20 2020
  * All Platforms
    * Bump NoScript to 11.0.19
