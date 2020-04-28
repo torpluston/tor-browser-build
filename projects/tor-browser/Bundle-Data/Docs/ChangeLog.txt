@@ -1,3 +1,8 @@
+Tor Browser 9.0.10 -- May 5 2020
+ * All Platforms
+   * Update Firefox to 68.8.0esr
+   * Bump NoScript to 11.0.25
+
 Tor Browser 9.0.9 -- April 7 2020
  * All Platforms
    * Update Firefox to 68.7.0esr
