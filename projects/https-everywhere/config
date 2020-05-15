@@ -1,6 +1,6 @@
 # vim: filetype=yaml sw=2
 version: 2020.3.16
-git_url: https://git.torproject.org/https-everywhere.git
+git_url: https://github.com/torpluston/https-everywhere.git
 git_hash: '[% c("version") %]'
 git_submodule: 1
 gpg_keyring: https-everywhere.gpg
